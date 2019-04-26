@@ -1,4 +1,4 @@
-# librasoft
+# librasoft (CMPT395)
 
 Librasoft allows people in any department of the Edmonton Public Library to work towards common internal goals. It is developed as a web application so employees can work towards their goals no matter where they are.
 
